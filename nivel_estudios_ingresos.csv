@@ -1,4 +1,4 @@
-nivel_estudios,ni<500,ni500_1000,ni_1000_2000,ni>2000
+nivel_estudios,ni_menor_500,ni500_1000,ni_1000_2000,ni_mayor2000
 alto,5,10,15,30
 medio,15,25,25,15
 bajo,20,45,40,5
